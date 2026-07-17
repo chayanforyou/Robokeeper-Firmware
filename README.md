@@ -2,9 +2,9 @@
 
 This repository contains the **ESP32 firmware** and the **Necessary files** for the **Robokeeper** project—a smart robotic goalkeeper that tracks a ball in real-time using OpenCV and dynamically moves a servo-controlled keeper arm to block shots.
 
-<p align="left">
+<p><a href="https://youtube.com/shorts/6pw2aRaE8rs">
   <img src="Cover Photo.png" width="70%" alt="Robokeeper">
-</p>
+</a></p>
 
 ### Download App
 You can download the Android app directly from latest releases:
